@@ -86,9 +86,8 @@ The CNN architecture consists of:
 ## Performance
 
 The model achieves:
-- Training accuracy: [Add your training accuracy]
-- Validation accuracy: [Add your validation accuracy]
-- Test accuracy: [Add your test accuracy]
+
+- Test accuracy: [96%]
 
 ## Contributing
 
