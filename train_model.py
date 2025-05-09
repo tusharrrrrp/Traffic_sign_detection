@@ -15,7 +15,7 @@ import os
 import pandas as pd
 import random
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-path = 'C:/Users/Admin/Desktop/Traffic Sign Detection/Dataset'
+path = ' ' #Add your Dataset PATH
 labelFile = 'labels.csv' 
 batch_size_val=32 
 epochs_val=10
