@@ -23,7 +23,7 @@ This project uses a CNN model to classify traffic signs from images. The model i
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/traffic-sign-detection.git
+   git clone https://github.com/tusharrrrrp/Traffic_sign_detection.git
    cd traffic-sign-detection
    ```
 
